@@ -11,6 +11,6 @@ public class App
         System.out.println( "Hello World!" );//from y1 branch
     }
     public void m1() {
-    	System.out.println("from m1");//from c1 branch
+    	System.out.println("from m1");//from x1 branch
     }
 }
